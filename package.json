@@ -6,14 +6,15 @@
   "author": "hisayuki-mori",
   "license": "MIT",
   "private": true,
-   "scripts": {
+  "scripts": {
+    "start": "yarn develop",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.24.54",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "gatsby": "^2.24.57",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
