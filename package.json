@@ -13,6 +13,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "aws-amplify": "^3.2.0",
+    "aws-amplify-react": "^4.2.3",
     "gatsby": "^2.24.57",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

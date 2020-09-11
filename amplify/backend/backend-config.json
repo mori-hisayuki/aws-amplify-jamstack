@@ -1,1 +1,11 @@
-{}
+{
+  "api": {},
+  "auth": {
+    "awsamplifyjamstack3c8374ca": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
