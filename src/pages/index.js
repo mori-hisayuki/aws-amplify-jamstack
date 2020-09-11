@@ -1,6 +1,6 @@
 import React from "react"
 // パッケージの読み込みを追記
-import { withAuthenticator } from 'aws-amplify-react'
+import { withAuthenticator } from '@aws-amplify/ui-react'
 
 const IndexPage = () => (
 <div>
