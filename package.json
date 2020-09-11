@@ -6,7 +6,14 @@
   "author": "hisayuki-mori",
   "license": "MIT",
   "private": true,
-  "workspaces": [
-      "packages/*"
-  ]
+   "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.54",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
